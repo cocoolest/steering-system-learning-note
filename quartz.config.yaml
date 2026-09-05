@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: zh-CN
-  baseUrl: baseUrl: cocoolest.github.io/steering-system-learning-note
+  baseUrl:cocoolest.github.io/steering-system-learning-note
   ignorePatterns:
     - private
     - templates
