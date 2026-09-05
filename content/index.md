@@ -31,3 +31,5 @@ Functional Safety Assessment of a Generic Electric Power Steering System With Ac
 ## 关于这些笔记
 
 内容是学习过程中的个人理解，会持续补充和纠正。
+
+我已开始使用 Obsidian 整理和更新学习笔记。
